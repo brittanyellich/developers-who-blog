@@ -6,9 +6,10 @@
 | Name | Link | Topic | RSS Feed | Social Links |
 | ---- | ---- | ----- | -------- | ------------ |
 | Brittany Ellich | [https://brittanyellich.com](https://brittanyellich.com) | Generalist software engineer | [https://brittanyellich.com/index.xml](https://brittanyellich.com/index.xml) | [Bluesky](https://bsky.app/profile/brittanyellich.com) |
-| Cory L. Rahman | [https://codewithcory.com/](https://codewithcory.com/) | | [https://codewithcory.com/rss.xml](https://codewithcory.com/rss.xml) | [Bluesky](https://bsky.app/profile/corylr.bsky.social) |
+| Cory L. Rahman | [https://codewithcory.com/](https://codewithcory.com/) | Tips, tutorials, tech-talk | [https://codewithcory.com/rss.xml](https://codewithcory.com/rss.xml) | [Bluesky](https://bsky.app/profile/corylr.bsky.social) |
 | Dan Clarke | [https://danclarke.beehiiv.com/](https://danclarke.beehiiv.com/) | Software development, .NET | [https://rss.beehiiv.com/feeds/473oB2Y2eb.xml](https://rss.beehiiv.com/feeds/473oB2Y2eb.xml) |  [Bluesky](https://bsky.app/profile/danclarke.com) |
 | Dan Moore | [https://ciamweekly.substack.com/](https://ciamweekly.substack.com/) | Customer Identity and Access Management | [https://ciamweekly.substack.com/feed](https://ciamweekly.substack.com/feed) | [Bluesky](https://bsky.app/profile/mooreds.com) |
+| Jack Franklin | [https://www.jackfranklin.co.uk/blog/](https://www.jackfranklin.co.uk/blog/) | JavaScript, React, software development and more | [https://www.jackfranklin.co.uk/feed.xml](https://www.jackfranklin.co.uk/feed.xml) | [Bluesky](https://bsky.app/profile/jackf.io) |
 | Jeremias Menicheli | [https://jeremias.codes/](https://jeremias.codes/) | Design systems, developer experience, product engineering. | [https://jeremias.codes/feed.xml](https://jeremias.codes/feed.xml) | [Bluesky](https://bsky.app/profile/jeremias.codes ) |
 | Joseph Hale | [https://jhale.dev/](https://jhale.dev/) | Software engineering, open source | [https://jhale.dev/feed.xml](https://jhale.dev/feed.xml) | [Bluesky](https://bsky.app/profile/jhale.dev) |
 | Laurent Kempé | [https://laurentkempe.com/](https://laurentkempe.com/) | C#, .NET, AI | [https://feeds.feedburner.com/laurentkempe](https://feeds.feedburner.com/laurentkempe)| [Bluesky](https://bsky.app/profile/laurentkempe.com) |

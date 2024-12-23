@@ -3,6 +3,7 @@ const path = require('path');
 const csv = require('csv-parser');
 
 const csvFilePath = path.join(__dirname, 'developersrss.csv');
+const companiesCsvFilePath = path.join(__dirname, 'companiesrss.csv');
 
 async function getFeedsFromCsv(filePath) {
     return new Promise((resolve, reject) => {
@@ -21,8 +22,15 @@ async function getFeedsFromCsv(filePath) {
 }
 
 async function main() {
+    console.log("DEVELOPER FEEDS")
     const feeds = await getFeedsFromCsv(csvFilePath);
     for (const feed of feeds) {
+        console.log(`/feed subscribe ${feed.RssLink}`)
+    }
+
+    console.log("COMPANY FEEDS")
+    const companyFeeds = await getFeedsFromCsv(companiesCsvFilePath);
+    for (const feed of companyFeeds) {
         console.log(`/feed subscribe ${feed.RssLink}`)
     }
 }
