@@ -1,0 +1,14 @@
+{
+  "name": "developers-who-blog",
+  "version": "1.0.0",
+  "description": "Welcome! This is a collection of blogs that I am currently following and tracking.",
+  "main": "slack-feeds.js",
+  "scripts": {
+    "slack": "node slack-feeds.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.1.0"
+  }
+}
