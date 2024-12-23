@@ -10,5 +10,6 @@ assignees: brittanyellich
 
 Writer name(s): 
 Blog link:
+Topic(s): 
 RSS feed link (if applicable): 
 Social links (if applicable):
