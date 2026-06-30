@@ -26,3 +26,4 @@
 | Sean Goedecke | [https://www.seangoedecke.com/](https://www.seangoedecke.com/) | Career thoughts on software engineering | [https://www.seangoedecke.com/rss.xml](https://www.seangoedecke.com/rss.xml)| [LinkedIn](https://www.linkedin.com/in/sean-goedecke-5495a7137/) |
 | Tomasz Gil | [https://blog.tomaszgil.me/](https://blog.tomaszgil.me/) | Software Engineering | [https://blog.tomaszgil.me/rss.xml](https://blog.tomaszgil.me/rss.xml) | [Bluesky](https://bsky.app/profile/tomaszgil.me) |
 | Wilson | [https://wilsoniumite.com/](https://wilsoniumite.com/) | | [https://wilsoniumite.com/feed/](https://wilsoniumite.com/feed/) | |
+| Dave Schwantes | [https://dontbreakprod.com/](https://dontbreakprod.com/) | Sofware Engineering, Career Development | [https://dontbreakprod.com/feed](https://dontbreakprod.com/feed) | [Bluesky](https://bsky.app/profile/dorkrawk.bsky.social) |
